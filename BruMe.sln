@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMe", "BruMe\BruMe.csproj", "{AFB52CD0-18E6-428C-A821-86324C68651C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeObjects", "BruMeObjects\BruMeObjects.csproj", "{C7676385-4A45-4C49-971C-A22136BE5F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB52CD0-18E6-428C-A821-86324C68651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB52CD0-18E6-428C-A821-86324C68651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB52CD0-18E6-428C-A821-86324C68651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB52CD0-18E6-428C-A821-86324C68651C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
