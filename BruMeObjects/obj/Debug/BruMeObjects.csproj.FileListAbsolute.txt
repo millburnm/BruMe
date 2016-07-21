@@ -4,3 +4,9 @@ c:\Users\Bear\documents\visual studio 2015\Projects\BruMe\BruMeObjects\obj\Debug
 c:\Users\Bear\documents\visual studio 2015\Projects\BruMe\BruMeObjects\obj\Debug\BruMeObjects.pdb
 c:\Users\Bear\Documents\Visual Studio 2015\Projects\BruMe\BruMeObjects\bin\Debug\Newtonsoft.Json.dll
 c:\Users\Bear\Documents\Visual Studio 2015\Projects\BruMe\BruMeObjects\obj\Debug\BruMeObjects.csprojResolveAssemblyReference.cache
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\BruMeObjects.dll
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\BruMeObjects.pdb
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeObjects.csprojResolveAssemblyReference.cache
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeObjects.dll
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeObjects.pdb

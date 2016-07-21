@@ -1,0 +1,6 @@
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\BruMeObjects.dll
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\BruMeObjects.pdb
+C:\GitHub\BruMe\BruMeObjects\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeObjects.dll
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeObjects.pdb
+C:\GitHub\BruMe\BruMeObjects\obj\Debug\BruMeDomainObjects.csprojResolveAssemblyReference.cache

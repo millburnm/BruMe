@@ -5,7 +5,15 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMe", "BruMe\BruMe.csproj", "{AFB52CD0-18E6-428C-A821-86324C68651C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeObjects", "BruMeObjects\BruMeObjects.csproj", "{C7676385-4A45-4C49-971C-A22136BE5F7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeDomainObjects", "BruMeObjects\BruMeDomainObjects.csproj", "{C7676385-4A45-4C49-971C-A22136BE5F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeWebAPI", "BruMeWebAPI\BruMeWebAPI.csproj", "{52F7AED8-3A6F-4096-962D-83AD44B7FE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeServices", "BruMeServices\BruMeServices.csproj", "{FB77A484-DA69-40A9-AEC4-4EEE17652782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeWeb", "WebApplication2\BruMeWeb.csproj", "{B3EFBBA9-DA49-426E-ADA5-3C9CF7EB549A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruMeTests", "BruMeTests\BruMeTests.csproj", "{A979D4BF-F798-4DE7-A811-5C4E58B27200}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7676385-4A45-4C49-971C-A22136BE5F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F7AED8-3A6F-4096-962D-83AD44B7FE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F7AED8-3A6F-4096-962D-83AD44B7FE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F7AED8-3A6F-4096-962D-83AD44B7FE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F7AED8-3A6F-4096-962D-83AD44B7FE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB77A484-DA69-40A9-AEC4-4EEE17652782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB77A484-DA69-40A9-AEC4-4EEE17652782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB77A484-DA69-40A9-AEC4-4EEE17652782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB77A484-DA69-40A9-AEC4-4EEE17652782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EFBBA9-DA49-426E-ADA5-3C9CF7EB549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EFBBA9-DA49-426E-ADA5-3C9CF7EB549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EFBBA9-DA49-426E-ADA5-3C9CF7EB549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EFBBA9-DA49-426E-ADA5-3C9CF7EB549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A979D4BF-F798-4DE7-A811-5C4E58B27200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A979D4BF-F798-4DE7-A811-5C4E58B27200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A979D4BF-F798-4DE7-A811-5C4E58B27200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A979D4BF-F798-4DE7-A811-5C4E58B27200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

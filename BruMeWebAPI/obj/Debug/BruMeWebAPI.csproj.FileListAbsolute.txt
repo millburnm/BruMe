@@ -1,0 +1,17 @@
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeWebAPI.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeWebAPI.pdb
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeServices.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeServices.pdb
+C:\GitHub\BruMe\BruMeWebAPI\obj\Debug\BruMeWebAPI.csprojResolveAssemblyReference.cache
+C:\GitHub\BruMe\BruMeWebAPI\obj\Debug\BruMeWebAPI.dll
+C:\GitHub\BruMe\BruMeWebAPI\obj\Debug\BruMeWebAPI.pdb
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Web.Http.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Web.Http.WebHost.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Web.Http.xml
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\System.Web.Http.WebHost.xml
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeObjects.dll
+C:\GitHub\BruMe\BruMeWebAPI\bin\Debug\BruMeObjects.pdb
