@@ -31,6 +31,8 @@ namespace BruMeTests
 
             //Assert
             Assert.AreEqual("Delphi53", bruMeUser.UserName);
+            Assert.AreEqual(349, bruMeUser.Stats.TotalCheckins);
+            Assert.AreEqual(5, bruMeUser.RecentBrews.Count);
         }
     }
 }

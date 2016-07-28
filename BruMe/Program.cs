@@ -1,6 +1,8 @@
 ﻿using BruMeDomainObjects.UntappdObjects;
 using BruMeServices;
 using Newtonsoft.Json;
+using Microsoft.Owin.Hosting;
+using System;
 
 namespace BruMe
 {
@@ -16,10 +18,16 @@ namespace BruMe
             //WebRequest getUntappdUserInfo = WebRequest.Create(uri);
             //getUntappdUserInfo.Method = "GET";
 
-            var response = new UntappdUserServices().GetUntappdUserInfo("delphi53");
-            //User user = JsonConvert.DeserializeObject<RootObject>(response).response.user;
-            var beerList = new UntappdUserServices().GetUntappdUserBeerList("delphi53");
+            //var response = new UntappdUserServices().GetUntappdUserInfo("delphi53");
+            ////User user = JsonConvert.DeserializeObject<RootObject>(response).response.user;
+            //var beerList = new UntappdUserServices().GetUntappdUserBeerList("delphi53");
 
+            using (WebApp.Start<BruMeWebAPI.Startup>("http://localhost:8080"))
+            {
+                Console.WriteLine("BruMeWebAPI started");
+                Console.WriteLine("Press any key to quit.");
+                Console.ReadLine();
+            }
         }
     }
 }
